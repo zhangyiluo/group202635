@@ -1,0 +1,168 @@
+.normalFont {
+	font-family: "SimSun", "Tahoma";
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+
+
+}
+.boldNormalFont {
+	font-family: "SimSun", "Tahoma";
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+
+}
+.boldHeaderFont {
+	font-family: "SimSun", "Tahoma";
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	color: 9E0B0E;
+
+}
+.soldFont {
+
+	font-family: "SimSun", "Tahoma";
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FF0000;
+}
+.aviFont {
+
+
+	font-family: "SimSun", "Tahoma";
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	color: #00CC00;
+}
+.titleBoldFont {
+
+
+	font-family: "SimSun", "Tahoma";
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FF0000;
+}
+.titleNormalFont {
+	font-family: "SimSun", "Tahoma";
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FF0000;
+}
+.titleEnglishFont {
+
+
+
+
+	font-family: "Tahoma";
+	font-size: 8pt;
+	font-style: normal;
+	font-weight: bold;
+	color: #FF0000;
+}
+.textFont {
+	font-family: "Tahoma";
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	color: #333333;
+	line-height: 18px;
+
+
+}
+.textFontHighLite {
+
+	font-family: "Tahoma";
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	color: #790000;
+}
+.tblBr {
+	border-top: 1px solid #CCCCCC;
+	border-right: 0px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 0px solid #CCCCCC;
+
+}
+.tblBr2 {
+
+	border-top: 0px solid #CCCCCC;
+	border-right: 0px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 0px solid #CCCCCC;
+}
+
+#imgs {
+	position: relative;	
+	top:0;
+	left:0;
+	width:5759;
+	height:5213;
+	border:0;
+	margin-left: auto; 
+	margin-right: auto;
+	text-align: center;
+	}
+.textFont2 {
+	font-family: "SimSun";
+	font-size: 14px;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 21px;
+	font-variant: normal;
+	color: #333333;
+
+}
+.dropTable {
+	border-top-width: 3px;
+	border-right-width: 1px;
+	border-bottom-width: 3px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #CCCCCC;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+}
+.topFont {
+
+	font-family: "SimSun";
+	font-size: 12px;
+	font-weight: normal;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	color: #333333;
+}
+.btnFont {
+	font-family: "SimSun";
+	font-size: 12px;
+	color: #333333;
+	vertical-align: bottom;
+	letter-spacing: 0em;
+
+
+}
+
+.btnFont a:link {color: #333333; text-decoration: none;}
+.btnFont a:visited {color: #333333; text-decoration: none;}
+.btnFont a:hover {color: #CC0000; text-decoration: none;}
+
+.titleFont {
+
+	font-family: "SimSun";
+	font-size: 12px;
+	color: #FF0000;
+	vertical-align: top;
+	letter-spacing: 0em;
+}
